@@ -15,7 +15,7 @@
 	border: 2px solid black;
 	margin: 0;
 	
-.caption {
+.col-lg-4 col-md-6 col-min-12 {
 	border: 3px solid black;
 	background-color: green;
 	color: black;
