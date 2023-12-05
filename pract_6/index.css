@@ -80,7 +80,8 @@ ul{
     }
     }
 @media (max-width:  768px) {
-   
+
+	display: block; 
     .col-mn-3 {
     flex-basis: 25%;
     }
