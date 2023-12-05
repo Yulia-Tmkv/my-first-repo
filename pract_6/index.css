@@ -1,0 +1,44 @@
+
+		
+	#biography:link {
+		color:black;
+	}
+
+	#biography:visited {
+		color:red;
+	}
+
+	#nowadays:link {
+		color:green;
+	}
+
+	#nowadays:visited {
+		color:yellow;
+	}
+
+	#friends:link {
+		color:pink;
+	}
+
+	#friends:visited {
+		color:salmon;
+	}
+
+	#gallery:link {
+		color:purple;
+	}
+
+	#gallery:visited {
+
+        color: gray;
+    }
+
+    h1 {
+  text-align: center;
+  font-size: 24px;
+       }
+
+    p {
+  font-size: 120%;
+    }
+    
