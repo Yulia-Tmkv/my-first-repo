@@ -1,0 +1,74 @@
+
+    .button {
+       background-color: aqua; 
+       border: 2px solid rgb(0, 0, 0);
+       width: 185px;
+       margin-bottom: 3px;
+       text-align: center;
+       color: rgb(4, 38, 226);
+       display: block;
+       text-decoration: none;
+    }
+
+    .button:hover {
+        background-color: magenta;
+        color: black;
+        display: block;
+    }
+
+    .button:active {
+        background-color: yellow;
+        color: rgb(255, 0, 0);
+    }
+
+    .p1 {
+            background-color: rgb(167, 170, 3);
+            color: rgb(111, 141, 236);
+        }
+        .p2 {
+            background-color:rgb(231, 138, 192) ;
+            color:rgb(0, 0, 0);
+        }
+        .p3 {
+            background-color: rgb(184, 110, 190);
+            color:rgb(31, 9, 31);
+        }
+        .p4 {
+            background-color: rgb(238, 67, 67);
+            color: rgb(93, 2, 105);
+        }
+        .p5 {
+            background-color: rgb(85, 223, 216);
+            color: rgb(22, 5, 21);
+        }
+
+      h1  {
+  text-align: center;
+  font-size: 22px;
+         }
+
+   #nazad {
+  font-style: italic;
+     }
+
+        #top{
+            text-align: center;
+        }
+
+        article {
+            font-size: 120%;
+        }
+
+        h2 {
+            font-size: 144%;
+        }
+
+       .zmist {
+  font-weight: bold;
+}
+    #uverh {
+  text-transform: uppercase;
+    }
+    
+    
+  
