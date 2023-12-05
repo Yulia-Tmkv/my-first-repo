@@ -137,9 +137,7 @@ ul{
     }
    }
    @media (max-width: 768px){
-    a{
-        display:block;
-    }
+    
     .col-sm-1 {
      flex-basis: 8.33%;
     }
