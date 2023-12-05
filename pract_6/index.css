@@ -50,10 +50,6 @@ ul{
 
 }
 
- .flex{
-    display:flex;
-    flex-direction: row;
-    flex-wrap: wrap;
 
 @media (min-width: 992px) {
     
